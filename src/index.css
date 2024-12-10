@@ -1,0 +1,27 @@
+html {
+    padding: 0;
+    margin: 0;
+    width: calc(100vw - 16px);
+}
+
+img {
+    display: block;
+}
+
+.mb-8 {
+    margin-bottom: 8px;
+}
+
+.flex-c-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gap-8 {
+    gap: 8px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
